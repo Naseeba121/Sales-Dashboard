@@ -8,26 +8,26 @@ An interactive Excel dashboard built using Power Query, Power Pivot, and DAX to 
 
 📊 Features
 
-=KPIs: Total Orders, Total Revenue, Avg. Delivery Days, Avg. Customer Spending
+KPIs: Total Orders, Total Revenue, Avg. Delivery Days, Avg. Customer Spending
 
--Revenue breakdown by Occasion, Category, City, Product, and Month
+Revenue breakdown by Occasion, Category, City, Product, and Month
 
--Order trends by Hour of Day
+Order trends by Hour of Day
 
--Interactive Slicers & Timeline for filtering (Date, Occasion, Order Date)
+Interactive Slicers & Timeline for filtering (Date, Occasion, Order Date)
 
 🛠️ Workflow
 
--ETL with Power Query – clean data, transform columns, extract dates/times, calculate delivery duration, join tables.
+ETL with Power Query – clean data, transform columns, extract dates/times, calculate delivery duration, join tables.
 
--Data Modeling with Power Pivot – star schema (Orders fact table, Customers & Products dimensions), DAX measures for KPIs.
+Data Modeling with Power Pivot – star schema (Orders fact table, Customers & Products dimensions), DAX measures for KPIs.
 
--Visualization – PivotTables, charts, slicers, and executive summary dashboard.
+Visualization – PivotTables, charts, slicers, and executive summary dashboard.
 
 📂 Dataset
 
--Customers.csv – customer details
+Customers.csv – customer details
 
--Orders.csv – order details, dates, occasions
+Orders.csv – order details, dates, occasions
 
 Products.csv – product info, categories, prices
